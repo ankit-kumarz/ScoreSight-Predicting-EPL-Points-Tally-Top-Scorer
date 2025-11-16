@@ -1681,6 +1681,6 @@ SOFTWARE.
 
 ---
 
-**Built with ❤️ by Amit Kumar**
+**Built with ❤️ by Ankit Kumar**
 
 *Last Updated: November 16, 2025*
