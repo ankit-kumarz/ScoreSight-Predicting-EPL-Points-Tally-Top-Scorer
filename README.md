@@ -5,6 +5,7 @@
 [![Live Demo](https://img.shields.io/badge/demo-live-green)](https://score-sight-frontend.vercel.app)
 [![Backend API](https://img.shields.io/badge/API-online-blue)](https://scoresight-backend.onrender.com)
 
+
 ## 🌟 Overview
 
 ScoreSight is a full-stack machine learning web application that predicts English Premier League match outcomes with confidence scores. Built with Django REST Framework backend and vanilla JavaScript frontend, it leverages scikit-learn models trained on historical EPL data.
