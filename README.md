@@ -203,7 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - scikit-learn for ML capabilities
 - Django & DRF for robust backend
-- Bootstrap for responsive UI
+- Bootstrap for responsive UI 
 - Vercel & Render for hosting
 - EPL data providers
 
