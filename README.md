@@ -172,7 +172,7 @@ Interactive conversational assistant
 
 ### Model Performance
 - **Accuracy**: 50-60% (better than random ~33%)
-- **Precision**: 0.55-0.65
+- **Precision**: 0.55-0.65 
 - **Recall**: 0.50-0.60
 
 ### Prediction Pipeline
