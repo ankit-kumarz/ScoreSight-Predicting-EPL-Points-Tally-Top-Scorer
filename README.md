@@ -79,7 +79,7 @@ ScoreSight/
 1. Clone the repository:
 ```bash
 git clone https://github.com/ankit-kumarz/ScoreSight-Predicting-EPL-Points-Tally-Top-Scorer.git
-cd ScoreSight-Predicting-EPL-Points-Tally-Top-Scorer/scoresight_backend
+cd ScoreSight-Predicting-EPL-Points-Tally-Top-Scorer/scoresight_backend 
 ```
 
 2. Create virtual environment:
