@@ -17,7 +17,7 @@ ScoreSight is a full-stack machine learning web application that predicts Englis
 - ⚽ **Score Prediction**: Suggests likely goal scores
 - 🤖 **AI Chatbot**: Interactive assistant for user support
 - 👤 **User Authentication**: Secure login/signup system
-- 📈 **Dashboard**: Track prediction history and accuracy
+- 📈 **Dashboard**: Track prediction history and accuracy 
 - 📱 **Responsive Design**: Works on desktop, tablet, and mobile
 
 ## 🚀 Live Demo
