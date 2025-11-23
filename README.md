@@ -70,7 +70,7 @@ ScoreSight/
 └── README.md
 ```
 
-## 🚦 Quick Start
+## 🚦 Quick Start 
 
 ### Local Development
 
