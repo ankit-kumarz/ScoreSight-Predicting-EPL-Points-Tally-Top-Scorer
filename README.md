@@ -225,6 +225,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ for EPL fans and data enthusiasts**
+**Built with ❤️ for EPL fans and data enthusiasts** 
 
 *Star ⭐ this repo if you find it useful!*
