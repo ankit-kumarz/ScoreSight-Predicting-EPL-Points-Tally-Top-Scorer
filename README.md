@@ -91,7 +91,7 @@ source venv/bin/activate  # On Windows: .\venv\Scripts\Activate.ps1
 3. Install dependencies:
 ```bash
 pip install -r requirements.txt
-```
+``` 
 
 4. Run migrations:
 ```bash
