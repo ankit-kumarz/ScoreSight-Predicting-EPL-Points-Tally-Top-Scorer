@@ -62,7 +62,7 @@ ScoreSight/
 │   ├── api/                   # REST API app
 │   ├── scoresight_backend/    # Django settings
 │   ├── artifacts/             # ML models
-│   ├── Procfile
+│   ├── Procfile 
 │   ├── runtime.txt
 │   └── requirements.txt
 ├── artifacts/                 # Original ML models
