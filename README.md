@@ -224,7 +224,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Advanced visualizations with D3.js
 
 ---
-
+ 
 **Built with ❤️ for EPL fans and data enthusiasts** 
 
 *Star ⭐ this repo if you find it useful!*
