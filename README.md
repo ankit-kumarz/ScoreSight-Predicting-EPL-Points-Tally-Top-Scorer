@@ -63,7 +63,7 @@ ScoreSight/
 │   ├── scoresight_backend/    # Django settings
 │   ├── artifacts/             # ML models
 │   ├── Procfile 
-│   ├── runtime.txt
+│   ├── runtime.txt 
 │   └── requirements.txt
 ├── artifacts/                 # Original ML models
 ├── PRODUCTION_DOCUMENTATION.md
