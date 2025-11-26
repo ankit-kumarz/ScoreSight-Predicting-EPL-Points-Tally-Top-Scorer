@@ -10,7 +10,7 @@
 
 ScoreSight is a full-stack machine learning web application that predicts English Premier League match outcomes with confidence scores. Built with Django REST Framework backend and vanilla JavaScript frontend, it leverages scikit-learn models trained on historical EPL data.
 
-## ✨ Features
+## ✨ Features 
 
 - 🎯 **Match Prediction**: Predicts Home Win, Draw, or Away Win
 - 📊 **Confidence Scores**: Probability distribution across all outcomes
