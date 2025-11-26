@@ -43,7 +43,7 @@ ScoreSight is a full-stack machine learning web application that predicts Englis
 - Random Forest Classifier (Match Outcome) 
 - Random Forest Regressor (Goal Difference)
 - Feature Engineering with Rolling Averages
-
+ 
 ## 📁 Project Structure
 
 ```
