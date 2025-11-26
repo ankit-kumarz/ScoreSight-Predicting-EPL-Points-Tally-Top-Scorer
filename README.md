@@ -73,7 +73,7 @@ ScoreSight/
 ## 🚦 Quick Start 
 
 ### Local Development
-
+ 
 #### Backend Setup
 
 1. Clone the repository:
