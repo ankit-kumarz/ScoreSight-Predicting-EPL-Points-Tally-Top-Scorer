@@ -57,7 +57,7 @@ ScoreSight/
 │   ├── assets/
 │   │   ├── styles.css
 │   │   └── script.js
-│   └── vercel.json
+│   └── vercel.json 
 ├── scoresight_backend/        # Backend API
 │   ├── api/                   # REST API app
 │   ├── scoresight_backend/    # Django settings
