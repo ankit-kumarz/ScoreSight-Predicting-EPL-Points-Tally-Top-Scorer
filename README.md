@@ -110,7 +110,7 @@ Backend runs at: http://localhost:8000
 1. Navigate to frontend:
 ```bash
 cd ../frontend
-``` 
+```  
 
 2. Update API URL in `assets/script.js`:
 ```javascript
