@@ -117,7 +117,7 @@ cd ../frontend
 const API_BASE = 'http://localhost:8000';
 ```
  
-3. Open `login.html` in browser or use local server:
+3. Open `login.html` in browser or use local server: 
 ```bash
 python -m http.server 3000
 ``` 
