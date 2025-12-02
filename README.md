@@ -115,7 +115,7 @@ cd ../frontend
 2. Update API URL in `assets/script.js`:
 ```javascript
 const API_BASE = 'http://localhost:8000';
-```
+``` 
  
 3. Open `login.html` in browser or use local server: 
 ```bash
