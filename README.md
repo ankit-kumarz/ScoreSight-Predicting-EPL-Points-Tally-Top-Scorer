@@ -113,7 +113,7 @@ cd ../frontend
 ```  
 
 2. Update API URL in `assets/script.js`: 
-```javascript
+```javascript 
 const API_BASE = 'http://localhost:8000';
 ``` 
  
