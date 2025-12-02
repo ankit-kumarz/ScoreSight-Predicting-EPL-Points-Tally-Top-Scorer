@@ -112,7 +112,7 @@ Backend runs at: http://localhost:8000
 cd ../frontend
 ```  
 
-2. Update API URL in `assets/script.js`:
+2. Update API URL in `assets/script.js`: 
 ```javascript
 const API_BASE = 'http://localhost:8000';
 ``` 
