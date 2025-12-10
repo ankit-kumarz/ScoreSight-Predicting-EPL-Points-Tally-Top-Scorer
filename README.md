@@ -103,7 +103,7 @@ python manage.py migrate
 
 5. Start server:
 ```bash
-python manage.py runserver
+python manage.py runserver 
 ```
 
 Backend runs at: http://localhost:8000
