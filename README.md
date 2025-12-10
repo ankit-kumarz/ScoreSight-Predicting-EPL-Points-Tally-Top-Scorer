@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 ## 👨‍💻 Author
 
-**Ankit Kumar**
+ **Ankit Kumar** 
 
 - GitHub: [@ankit-kumarz](https://github.com/ankit-kumarz)
 - LinkedIn: [Connect with me](https://linkedin.com/in/ankit-kumarz)
