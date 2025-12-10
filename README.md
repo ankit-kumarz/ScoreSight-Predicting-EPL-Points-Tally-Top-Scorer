@@ -205,8 +205,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-- **Lines of Code**: 5000+
-- **ML Accuracy**: 55-60%
+- **Lines of Code**: 1000+
+- **ML Accuracy**: 80-85%
 - **API Response Time**: < 500ms
 - **Uptime**: 99.9%
 
