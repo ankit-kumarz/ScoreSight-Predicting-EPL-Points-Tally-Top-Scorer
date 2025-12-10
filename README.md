@@ -195,13 +195,6 @@ Raw Stats → Feature Engineering → Scaling → Model Prediction → Response
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Amit Kumar**
-
-- GitHub: [@ankit-kumarz](https://github.com/ankit-kumarz)
-- LinkedIn: [Connect with me](https://linkedin.com/in/ankit-kumarz)
-
 ## 🙏 Acknowledgments
 
 - scikit-learn for ML capabilities
@@ -227,6 +220,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Advanced visualizations with D3.js
 
 ---
+## 👨‍💻 Author
+
+**Amit Kumar**
+
+- GitHub: [@ankit-kumarz](https://github.com/ankit-kumarz)
+- LinkedIn: [Connect with me](https://linkedin.com/in/ankit-kumarz)
  
 **Built with ❤️ for EPL fans and data enthusiasts** 
 
