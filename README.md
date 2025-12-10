@@ -5,7 +5,7 @@
 [![Live Demo](https://img.shields.io/badge/demo-live-green)](https://score-sight-frontend.vercel.app/)
 [![Backend API](https://img.shields.io/badge/API-online-blue)](https://scoresight-backend.onrender.com)
 
-🌟 Internship Note
+## 🌟 Internship Note
 
 This project was developed as part of my Infosys Springboard Internship, under the guidance of an official Springboard mentor. It allowed me to explore real-world machine learning workflows, full-stack development, and deployment practices while building an end-to-end EPL match prediction system.
 
