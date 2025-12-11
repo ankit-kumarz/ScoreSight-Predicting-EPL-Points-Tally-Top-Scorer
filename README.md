@@ -3,7 +3,7 @@
 🏆 **AI-Powered English Premier League Match Outcome Predictor**
 
 [![Live Demo](https://img.shields.io/badge/demo-live-green)](https://score-sight-frontend.vercel.app/)
-[![Backend API](https://img.shields.io/badge/API-online-blue)](https://scoresight-backend.onrender.com)
+[![Backend API](https://img.shields.io/badge/API-online-blue)](https://scoresight-backend.onrender.com) 
 
 ## 🌟 Internship Note
 
