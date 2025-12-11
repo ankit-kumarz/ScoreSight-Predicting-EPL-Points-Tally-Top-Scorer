@@ -109,7 +109,7 @@ python manage.py runserver
 Backend runs at: http://localhost:8000
 
 #### Frontend Setup  
-
+ 
 1. Navigate to frontend:
 ```bash
 cd ../frontend
