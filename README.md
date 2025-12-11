@@ -34,7 +34,7 @@ ScoreSight is a full-stack machine learning web application that predicts Englis
 - HTML5, CSS3, JavaScript (ES6+)
 - Bootstrap 5
 - Vercel (Hosting) 
-
+ 
 ### Backend
 - Python 3.12
 - Django 4.2+ & Django REST Framework
