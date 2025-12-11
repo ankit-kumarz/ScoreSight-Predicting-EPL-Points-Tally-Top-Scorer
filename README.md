@@ -75,7 +75,7 @@ ScoreSight/
 
 ## 🚦 Quick Start  
 
-### Local Development
+### Local Development 
  
 #### Backend Setup
  
