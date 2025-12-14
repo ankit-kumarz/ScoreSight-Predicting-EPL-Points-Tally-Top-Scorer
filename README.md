@@ -53,7 +53,7 @@ ScoreSight is a full-stack machine learning web application that predicts Englis
 ScoreSight/
 ├── frontend/                  # Frontend application
 │   ├── login.html
-│   ├── signup.html
+│   ├── signup.html 
 │   ├── dashboard.html
 │   ├── predict.html
 │   ├── ai_predictor.html
