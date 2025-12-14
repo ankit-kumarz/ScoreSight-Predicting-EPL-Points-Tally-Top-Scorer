@@ -163,7 +163,7 @@ Input match statistics and get AI-powered predictions
 ### AI Chatbot
 Interactive conversational assistant
 
-## 🧠 Machine Learning Models
+## 🧠 Machine Learning Models 
 
 ### Features (28 total)
 - Rolling averages over last 3 matches for each team
