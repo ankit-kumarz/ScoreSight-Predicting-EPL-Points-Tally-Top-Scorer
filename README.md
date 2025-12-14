@@ -47,7 +47,7 @@ ScoreSight is a full-stack machine learning web application that predicts Englis
 - Random Forest Regressor (Goal Difference)
 - Feature Engineering with Rolling Averages
  
-## 📁 Project Structure
+## 📁 Project Structure 
 
 ```
 ScoreSight/
