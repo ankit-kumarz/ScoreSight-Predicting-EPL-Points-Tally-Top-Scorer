@@ -62,7 +62,7 @@ ScoreSight/
 │   │   └── script.js
 │   └── vercel.json 
 ├── scoresight_backend/        # Backend API
-│   ├── api/                   # REST API app
+│   ├── api/                   # REST API app 
 │   ├── scoresight_backend/    # Django settings
 │   ├── artifacts/             # ML models
 │   ├── Procfile 
