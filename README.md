@@ -219,7 +219,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Multi-league support (La Liga, Serie A, etc.)
 - [ ] Advanced visualizations with D3.js
 
----
+--- 
 ## 👨‍💻 Author
 
  **Ankit Kumar** 
