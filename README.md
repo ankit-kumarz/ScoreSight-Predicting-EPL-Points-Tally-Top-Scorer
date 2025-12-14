@@ -146,7 +146,7 @@ See: [PRODUCTION_DOCUMENTATION.md](./PRODUCTION_DOCUMENTATION.md)
 | `/api/teams` | GET | Get list of EPL teams |
 | `/api/signup` | POST | User registration |
 | `/api/login` | POST | User authentication |
-| `/api/predict_v2` | POST | Match prediction |
+| `/api/predict_v2` | POST | Match prediction | 
 | `/api/user/stats` | GET | User statistics |
 
 ## 🎨 Screenshots
