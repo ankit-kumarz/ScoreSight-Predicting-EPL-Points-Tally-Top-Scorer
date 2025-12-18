@@ -85,7 +85,7 @@ git clone https://github.com/ankit-kumarz/ScoreSight-Predicting-EPL-Points-Tally
 cd ScoreSight-Predicting-EPL-Points-Tally-Top-Scorer/scoresight_backend 
 ```
 
-2. Create virtual environment:
+2. Create virtual environment: 
 ```bash
 python -m venv venv 
 source venv/bin/activate  # On Windows: .\venv\Scripts\Activate.ps1
